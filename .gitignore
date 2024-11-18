@@ -14,9 +14,10 @@
 
 events.*
 \video
-\train\datasets
-\train\runs
 
+
+\train\runs
+*.txt
 \images
 
 label\*.txt
