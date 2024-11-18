@@ -1,0 +1,13 @@
+names:
+- '0'
+- '1'
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: ball-detector-y6tgg
+  url: https://universe.roboflow.com/yyf/ball-detector-y6tgg/dataset/2
+  version: 2
+  workspace: yyf
+test: ../test/images
+train: ball-detector-2/train/images
+val: ball-detector-2/valid/images
