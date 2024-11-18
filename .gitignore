@@ -11,12 +11,12 @@
 \basketball\*.mp4
 
 \images
-\runs\detect\*\weights
+
 events.*
 \video
 \train\*.pt
 \train
-\runs
+
 \images
 
 label\*.txt
