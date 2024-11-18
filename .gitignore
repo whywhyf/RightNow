@@ -14,8 +14,8 @@
 
 events.*
 \video
-\train\*.pt
-\train
+\train\datasets
+\train\runs
 
 \images
 
