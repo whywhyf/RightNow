@@ -5,11 +5,11 @@
 *.jpg
 \datasets
 \ba
-\basketball
+
 \basketball\*.png
 \basketball\*.avi
 \basketball\*.mp4
-\basketball\__pycache__
+
 \images
 \runs\detect\*\weights
 events.*
@@ -27,3 +27,5 @@ label\*.txt
 *.png
 *.jpg
 *.pyc
+*.mp4
+*.DS_Store
